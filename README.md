@@ -63,3 +63,8 @@ These results describe a demonstration dataset, not a production system.
 ## Skills Demonstrated
 
 Master Data Management (MDM), Product Information Management (PIM), Data Quality, Data Governance, Excel VBA Automation, Data Cleansing, Validation, Exception Management and Dashboard Reporting.
+
+## Project Dashboard
+
+![Product Data Quality Dashboard](Dashboard.png)
+
